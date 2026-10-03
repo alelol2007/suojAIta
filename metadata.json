@@ -1,0 +1,6 @@
+{
+  "name": "suojAIta Control Layer Workbench",
+  "description": "suojAIta — Enterprise AI Control Layer & Guardrail Gateway workbench for testing deterministic & semantic controls, token policy engines, and FastAPI 3-person architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
